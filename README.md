@@ -1,9 +1,9 @@
 <pre>Olá! Me chamo <b>David</b>, tenho <i>28 anos</i> e sou estudante de programação <i>Front-End</i>.👋</pre>
 
 
-  Eu trabalhei durante 6 anos em outro segmento da Informática, no início de 2022 decidi sair da minha zona de conforto e me arriscar mudando de área afim de seguir o que eu realmente almejava. 
+  <i>Eu trabalhei durante 6 anos em outro segmento da Informática, no início de 2022 decidi sair da minha zona de conforto e me arriscar mudando de área afim de seguir o que eu realmente almejava. 
   
-  Durante o início da transição de carreira não foi nada fácil, houve momentos que me fizeram pensar em desistir porém eu permaneci firme dando um passo de cada vez seguindo com minhas metas e sonhos. Nesse pouco tempo de experiência que obtive posso afirmar que é a área que realmente quero seguir.
+  Durante o início da transição de carreira não foi nada fácil, houve momentos que me fizeram pensar em desistir porém eu permaneci firme dando um passo de cada vez seguindo com minhas metas e sonhos. Nesse pouco tempo de experiência que obtive posso afirmar que é a área que realmente quero seguir.</i>
   
   <br>
          
