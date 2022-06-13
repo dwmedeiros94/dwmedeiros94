@@ -11,7 +11,7 @@
   
 <br> 
 
-<b>Curso</b>: Programação <i>Front-End</i> pelo <a href="https://www.vainaweb.com.br/">Vai na Web</a>
+<b>Curso</b>: Programação <i>Front-End</i> pelo <a href="https://www.vainaweb.com.br/">Vai na Web</a> 🚀
 
 <br>
 
