@@ -1,4 +1,4 @@
-### Olá! Me chamo David Medeiros, sou estudante de programação Front-End.👋
+### Olá! Me chamo David, sou estudante de programação Front-End.👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-medeiros-28b056235/)
 
