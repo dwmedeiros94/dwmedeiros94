@@ -11,7 +11,7 @@
   
 <br> 
 
-<b>Curso</b>: Programação <i>Front-End</i> pelo <a href="https://www.vainaweb.com.br/">Vai na Web</a> 🚀
+<i><b>Curso</b>: Desenvolvedor <i>Front-End</i> pelo <a href="https://www.vainaweb.com.br/">Vai na Web</a></i> 🚀
 
 <br>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-<pre>Linguagens que utilizo no meu <b>dia a dia</b></pre>
+<pre>Linguagens que utilizo no meu <b>dia a dia</b> 💻</pre>
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"  />
@@ -37,6 +37,6 @@
 
 <br>
 
-<pre><i>Meus contatos</i></pre>
+<pre><i>Meus contatos 📱</i></pre>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-medeiros-28b056235/)
