@@ -26,9 +26,9 @@
 
   <pre><i>Status GitHub</i></pre>
   
-  ![David Medeiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwmedeiros94&show_icons=true&theme=dark)
+  ![David Medeiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwmedeirosDev&show_icons=true&theme=dark)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwmedeiros94&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwmedeirosDev&layout=compact)
 
 </div> 
 
