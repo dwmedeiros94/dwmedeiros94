@@ -17,8 +17,10 @@
 #
 
 <div align="center">
-  <i><b>Curso</b>: Análise e Desenvolvimento de Sistemas pela <a href="https://www.origamid.com/">Faculdade Descomplica</a></i> 🚀
+  <i><b>Curso</b>: Análise e Desenvolvimento de Sistemas pela <a href="https://www.origamid.com/">Faculdade Descomplica</a></i> 
+  <br>
   <i><b>Curso</b>: Desenvolvedor <i>Front-End</i> pela <a href="https://www.origamid.com/">Origamid</a></i> 
+  <br>
   <i><b>Curso</b>: Desenvolvedor <i>Front-End</i> pelo <a href="https://www.vainaweb.com.br/">Vai na Web</a></i> 🚀
 </div>
 
