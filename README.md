@@ -1,5 +1,5 @@
 <div align="center">
-  <pre>Olá! Me chamo <b>David</b>, tenho <i>28 anos</i> e sou estudante de programação <i>Front-End</i>. 👋</pre>
+  <pre>Olá! Me chamo <b>David</b>, tenho <i>29 anos</i> e sou estudante de programação <i>Front-End</i>. 👋</pre>
 </div>
 
 #
