@@ -5,9 +5,10 @@
 #
 
 <div>
-  <i>Eu trabalhei durante 6 anos em outro segmento da Informática, no início de 2022 decidi sair da minha zona de conforto e me arriscar mudando de área afim de seguir o que eu realmente almejava.</i>
+  <i>Após uma trajetória de seis anos em um segmento específico da Informática, tomei a corajosa decisão de sair da minha zona de conforto no início de 2022, buscando seguir minha verdadeira paixão.</i>
 
-  <i>Durante o início da transição de carreira não foi nada fácil, houve momentos que me fizeram pensar em desistir porém eu permaneci firme dando um passo de cada vez seguindo com minhas metas e sonhos. Nesse pouco tempo de experiência que obtive posso afirmar que é a área que realmente quero seguir.</i>
+  <i>Agora, estou empenhado em aprimorar minhas habilidades na área da programação, buscando desenvolver-me profissionalmente e alcançar meus objetivos nesse campo de atuação.</i>
+  
 </div>
 
 <div align="center">
