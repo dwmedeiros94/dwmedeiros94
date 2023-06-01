@@ -11,10 +11,6 @@
   
 </div>
 
-<div align="center">
-  <pre><b><i>Onde a programação vai me levar ?</b></i> Realmente eu não sei, porém estou curioso para descobrir.</pre>
-</div>
-
 #
 
 <div align="center">
